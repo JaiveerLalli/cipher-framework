@@ -1,9 +1,5 @@
 // Jaiveer Lalli
 // 4-12-26
-// CSE 123
-// TA: Sahana Sarangi
-
-
 
 import org.junit.jupiter.api.*;
 import static org.junit.jupiter.api.Assertions.*;
